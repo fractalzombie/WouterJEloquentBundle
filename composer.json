@@ -30,7 +30,8 @@
         , "symfony/twig-bridge": "^4.4 || ^5.0"
         , "symfony/var-dumper": "^4.4 || ^5.0"
         , "twig/twig": "^1.26 || ^2.0"
-        , "doctrine/annotations": "1.*"
+        , "doctrine/annotations": "1.*",
+            "symfony/maker-bundle": "^1.20"
     }
     , "conflict": { "hhvm": "*" }
     , "suggests": {
